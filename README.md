@@ -1,2 +1,2 @@
 # Git_Exam
-It is used for git exam
+Hi this repo is used for git exam
